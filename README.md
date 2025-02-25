@@ -6,7 +6,7 @@ CS 330
 
 Professor Shaykhian
 
-                                                      CS 330 Final Project Reflection
+                             CS 330 Final Project Reflection
 
 For my final project, I created a 3D beach island scene with a wooden hut, metal roofing, surrounding water, and a beach ball. This project helped me understand how to build a 3D environment using different shapes, textures, and lighting techniques. It was a fun and challenging experience that pushed me to learn more about computer graphics.
 
